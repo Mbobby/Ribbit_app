@@ -22,5 +22,8 @@
     <string name="menu_logout_label">Logout</string>
     <string name="empty_inbox_label">No New Messages</string>
     <string name="empty_friends_label">Add Friends To Begin</string>
+    <string name="menu_edit_friends">Edit Friends</string>
+    <string name="title_activity_edit_friends">Edit Friends</string>
+    <string name="error_title">We\'re sorry!</string>
 
 </resources>
